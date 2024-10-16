@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35323.107
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{C5AAF1F0-EB63-42C8-A0AA-CC0D3ADEA082}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAppNotificationServiceExtension", "TestAppNotificationServiceExtension\TestAppNotificationServiceExtension.csproj", "{0869461A-6BB5-4DDD-BA55-72C157014B8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5AAF1F0-EB63-42C8-A0AA-CC0D3ADEA082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5AAF1F0-EB63-42C8-A0AA-CC0D3ADEA082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5AAF1F0-EB63-42C8-A0AA-CC0D3ADEA082}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C5AAF1F0-EB63-42C8-A0AA-CC0D3ADEA082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5AAF1F0-EB63-42C8-A0AA-CC0D3ADEA082}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5AAF1F0-EB63-42C8-A0AA-CC0D3ADEA082}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{0869461A-6BB5-4DDD-BA55-72C157014B8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0869461A-6BB5-4DDD-BA55-72C157014B8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0869461A-6BB5-4DDD-BA55-72C157014B8B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{0869461A-6BB5-4DDD-BA55-72C157014B8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0869461A-6BB5-4DDD-BA55-72C157014B8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0869461A-6BB5-4DDD-BA55-72C157014B8B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {814DAF91-046D-4623-BF44-62043F4F5168}
+	EndGlobalSection
+EndGlobal
